@@ -71,4 +71,9 @@ Collaborative research spaces for teams.
 
 A dedicated mobile application.
 
+
+
+<img width="861" height="654" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/1382a682-f907-4c51-a3c7-1ff0becfa828" />
+
+
 Support for a more diverse range of file types.
